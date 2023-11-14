@@ -62,3 +62,20 @@ button {
     background-color: #fff;
     color: #C9CED4;
 }
+
+/* list section style */
+.lists {
+    padding-inline: 10%;
+    padding-block: 40px;
+    border-radius: 0 5px 0 5px;
+}
+
+ul {
+    padding-left: 2em;
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+li {
+    padding-block: 10px;
+}
