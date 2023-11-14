@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F6F8F9;
+    font-family: sans-serif;
+}
+
+main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* header section style */
+header {
+    background-color: #fff;
+    padding: 10px;
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+img {
+    vertical-align: middle;
+}
