@@ -28,3 +28,37 @@ h1 {
 img {
     vertical-align: middle;
 }
+
+/* main sections style */
+div {
+    background-color: #fff;
+    /* padding: 0 10%; */
+}
+
+/* button section style */
+.buttons {
+    margin-top: 30px;
+    margin-bottom: 5px;
+    padding: 20px 10% 10px 10%;
+    border-radius: 5px 5px 0 0;
+}
+
+button {
+    text-align: center;
+    padding-inline: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 12px;
+    height: 30px;
+}
+
+.btn-blue {
+    background-color: #48ADF1;
+    color: #fff;
+}
+
+.btn-white {
+    border: 1px solid #C9CED4;
+    background-color: #fff;
+    color: #C9CED4;
+}
