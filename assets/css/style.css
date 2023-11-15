@@ -82,22 +82,34 @@ li {
 /* check & cross style */
 .check::before {
     content: '\2713';
-    padding: 2px 4px;
+    /* padding: 2px 4px; */
     font-size: 10px;
     color: #4EB99F;
     border: 1px solid #4EB99F;
     border-radius: 50%;
     margin-right: 1em;
+
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    text-align: center;
+    line-height: 15px;
 }
 
 .cross::before {
     content: '\2715';
-    padding: 2px 4px;
+    /* padding: 2px 4px; */
     font-size: 10px;
     color: #EA4338;
     border: 1px solid #EA4338;
     border-radius: 50%;
     margin-right: 1em;
+
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    text-align: center;
+    line-height: 15px;
 }
 
 /* tag styling */
